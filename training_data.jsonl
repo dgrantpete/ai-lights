@@ -1,0 +1,54 @@
+{"prompt":"<lamp1, lamp2, lamp3, lamp4, ceiling, floorlamp>, Set my lights to red\n\n","completion":" <all> #FF0000\n"}
+{"prompt":"<lamp1, lamp3, ceiling>, Change color to green\n\n","completion":" <all> #00FF00\n"}
+{"prompt":"<lamp1, lamp3>, Set a lamp to purple\n\n","completion":" lamp1 #A020F0\n"}
+{"prompt":"<ceiling, randomlight>, Turn off all lights\n\n","completion":" <all> <off>\n"}
+{"prompt":"<deskLamp, nightStandlamp, floorLight>, Set my lights to the colors of the american flag\n\n","completion":" deskLamp #FFFFFF, nightStandlamp #002147, floorLight #BB133E\n"}
+{"prompt":"<lamp1, lamp2>, Dim the lights to 50 percent\n\n","completion":" <all> #7F7F7F\n"}
+{"prompt":"<randomname1, randomname2, randomname4>, Make lights like a sunset\n\n","completion":" randomname1 #C33799, randomname2 #FE6556, randomname4 #FBAB77\n"}
+{"prompt":"<lamp1, lamp2>, Set a lamp to green\n\n","completion":" lamp2 #00FF00\n"}
+{"prompt":"<greg, betty, harold>, Make betty blue and harold the color of a cardinal\n\n","completion":" betty #0000FF, harold #C41E3A\n"}
+{"prompt":"<foo, bar>, Set my lights to sad\n\n","completion":" <all> #0071B6\n"}
+{"prompt":"<lamp1, lamp2>, Make a light bright yellow and another light bright red\n\n","completion":" lamp1 #FFFF00, lamp2 #FF0000\n"}
+{"prompt":"<bedroom1, bedroom2, livingroom, kitchen>, Set all lights to warm white\n\n","completion":" <all> #FFDAB9\n"}
+{"prompt":"<bathroom, bedroom1>, Turn on the lights\n\n","completion":" <all> <on>\n"}
+{"prompt":"<lamp1, lamp3>, Set a lamp to blue\n\n","completion":" lamp3 #0000FF\n"}
+{"prompt":"<kitchen, livingroom>, Turn off the ceiling lights\n\n","completion":" <ceiling> <off>\n"}
+{"prompt":"<deskLamp, nightStandlamp, floorLight>, Set my lights to the colors of the rainbow\n\n","completion":" deskLamp #FF0000, nightStandlamp #FFA500, floorLight #FFFF00\n"}
+{"prompt":"<lamp1, lamp2>, Set a lamp to white\n\n","completion":" lamp1 #FFFFFF\n"}
+{"prompt":"<randomname1, randomname3, randomname5>, Make all lights bright and colorful\n\n","completion":" randomname1 #FF0000, randomname3 #00FF00, randomname5 #0000FF\n"}
+{"prompt":"<lamp1, lamp3>, Set a lamp to yellow\n\n","completion":" lamp3 #FFFF00\n"}
+{"prompt":"<greg, betty, harold>, Make greg green and betty purple\n\n","completion":" greg #00FF00, betty #800080\n"}
+{"prompt":"<bedroom1, bedroom2>, Set all lights to cool white\n\n","completion":" <all> #C9E2FF\n"}
+{"prompt":"<bimper, chimper>, Turn chimper to green and bimper to red\n\n","completion":" bimper #FF0000, chimper #00FF00\n"}
+{"prompt":"<aa, bb, cc>, Set the light that starts with b to green\n\n","completion":" bb #00FF00\n"}
+{"prompt":"<asd, qwe, zxc>, Make the lights the color of fire\n\n","completion":" asd #FF0000, qwe #FFA500, zxc #FFFF00\n"}
+{"prompt":"<a, b, c>, Make the lights the color of love\n\n","completion":" a #FF0000, b #FF00FF, c #0000FF\n"}
+{"prompt":"<lamp1, lamp2>, Set a lamp to warm white\n\n","completion":" lamp1 #FFDAB9\n"}
+{"prompt":"<lamp1, lamp2>, Set a lamp to cool white\n\n","completion":" lamp2 #C9E2FF\n"}
+{"prompt":"<lamp1, lamp3>, Set a lamp to purple and another to blue\n\n","completion":" lamp1 #800080, lamp3 #0000FF\n"}
+{"prompt":"<deskLamp, nightStandlamp>, Set both lights to bright yellow and bright red respectively\n\n","completion":" deskLamp #FFFF00, nightStandlamp #FF0000\n"}
+{"prompt":"<foo, bar>, Set my lights to happy\n\n","completion":" <all> #FFC0CB\n"}
+{"prompt":"<aa, bb, cc>, Turn on a light that starts with b and turn off a light that starts with c\n\n","completion":" bb <on>, cc <off>\n"}
+{"prompt":"<bibby, steph, gradid>, I want my lights to look like fireworks\n\n","completion":" bibby #FF0000, steph #00FF00, gradid #0000FF\n"}
+{"prompt":"<ceiling, desk, table>, Lets make my ceiling light the same color as corn\n\n","completion":" ceiling #FBEC5D\n"}
+{"prompt":"<lamp1, lamp2>, Set a lamp to the color of the sky\n\n","completion":" lamp2 #87CEEB\n"}
+{"prompt":"<lamp1, lamp3>, Set a lamp to orange\n\n","completion":" lamp3 #FFA500\n"}
+{"prompt":"<greg, betty, harold>, Make greg red and betty the color of a ripe tomato\n\n","completion":" greg #FF0000, betty #FF6347\n"}
+{"prompt":"<desklamp, floorlamp, ceiling, jefferson>, Make my lamps the color of cheddar cheese\n\n","completion":" desklamp #EDDB61, floorlamp #FFCF48\n"}
+{"prompt":"<desk, ceiling>, Make the light on the desk a salmon color\n\n","completion":" desk #FA8072\n"}
+{"prompt":"<desk, ceiling>, Set my ceiling light to a salmon color\n\n","completion":" ceiling #FA8072\n"}
+{"prompt":"<desk, ceiling>, Set my desk lamp to the color of the sun\n\n","completion":" desk #FFCF48\n"}
+{"prompt":"<desk, ceiling>, Set my ceiling light to the color of the sun\n\n","completion":" ceiling #FFCF48\n"}
+{"prompt":"<desk, ceiling>, Set my desk lamp to a cheddar cheese color\n\n","completion":" desk #EDDB61\n"}
+{"prompt":"<desk, ceiling>, Set my ceiling light to a cheddar cheese color\n\n","completion":" ceiling #EDDB61\n"}
+{"prompt":"<lamp1, lamp2>, Make a light the color of a ripe tomato and another light the color of a carrot\n\n","completion":" lamp1 #FF6347, lamp2 #ED9121\n"}
+{"prompt":"<desklamp, floorLamp, ceiling>, Make my desk lamp the same color as a ripe tomato and my floor lamp the same color as a carrot\n\n","completion":" desklamp #FF6347, floorLamp #ED9121\n"}
+{"prompt":"<lamp1, lamp2>, Make a light the same color as a ripe tomato and another light the same color as a carrot\n\n","completion":" lamp1 #FF6347, lamp2 #ED9121\n"}
+{"prompt":"<bedroom1, bedroom2>, Set all lights to warm white\n\n","completion":" <all> #FFDAB9\n"}
+{"prompt":"<bathroom, bedroom1>, Turn off the lights in the bathroom and turn on the lights in the bedroom\n\n","completion":" bathroom <off>, bedroom1 <on>\n"}
+{"prompt":"<desklamp, floorLamp, ceiling>, Make my desk lamp the same color as a ripe tomato and my floor lamp the same color as a carrot and turn on the ceiling light\n\n","completion":" desklamp #FF6347, floorLamp #ED9121, ceiling <on>\n"}
+{"prompt":"<bathroom, bedroom1>, Turn on the lights in the bathroom and turn off the lights in the bedroom\n\n","completion":" bathroom <on>, bedroom1 <off>\n"}
+{"prompt":"<lamp1, lamp2>, Make a light the same color as cheddar cheese and another light the same color as corn\n\n","completion":" lamp1 #EDDB61, lamp2 #FBEC5D\n"}
+{"prompt":"<desklamp, floorLamp, ceiling>, Make my desk lamp the same color as cheddar cheese and my floor lamp like corn and turn on the ceiling light\n\n","completion":" desklamp #EDDB61, floorLamp #FBEC5D, ceiling <on>\n"}
+{"prompt":"<lamp1, lamp3>, Make the third lamp the color of grass and another to bright yellow\n\n","completion":" lamp1 #FBEC5D, lamp3 #57DB39\n"}
+{"prompt":"<desktoplamp, ceiling1, ceiling2, ceiling3>, Set my ceiling lights to the same colors as the German flag\n\n","completion":" ceiling1 #000000, ceiling2 #DD0000, ceiling3 #FFCC00\n"}
