@@ -1,0 +1,1 @@
+Basic library to control smart lights using prompts and AI to fulfill requests. Current WIP
